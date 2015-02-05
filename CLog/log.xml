@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LogConfig>	
+	<logMode>1</logMode><!--日志模式 0：只写文件 1:UDP和文件-->	
+	<debugMode>0</debugMode><!--调试模式 0:调试输出文件与行号信息 1：只输出信息-->	
+	<path>log</path><!--日记文件输出路径-->		
+	<server><!--发送UDP数据的目的主机的IP和端口号-->
+		<ip>127.0.0.1</ip>
+		<port>12306</port>
+	</server>
+</LogConfig>

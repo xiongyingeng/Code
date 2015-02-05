@@ -1,0 +1,2 @@
+1、config.xml 需放到项目构架目录下
+2、clog.h 、clog.cpp 日志类
